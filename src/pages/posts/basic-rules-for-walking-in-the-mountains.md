@@ -9,7 +9,7 @@ excerpt: Hiking is sometimes referred to as such. This specifically refers to di
 template: post
 subtitle: write code with fun
 thumb_img_alt: ''
-hide_header: false
+hide_header: true
 
 ---
 ![Hiking](/images/2.jpg)
